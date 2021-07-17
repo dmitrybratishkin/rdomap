@@ -1,0 +1,26 @@
+[
+  {
+    "text": "bounty_board_horde_tumbleweed",
+    "x": -109.2165,
+    "y": 27.4496,
+    "radius": 0.3334,
+    "locations": [
+      {
+        "x": -109.2165,
+        "y": 27.4496
+      }
+    ]
+  },
+  {
+    "text": "bounty_board_horde_benedicts_point",
+    "x": -103.6518,
+    "y": 53.7751,
+    "radius": 0.3334,
+    "locations": [
+      {
+        "x": -103.6518,
+        "y": 53.7751
+      }
+    ]
+  }
+]
